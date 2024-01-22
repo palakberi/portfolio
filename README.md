@@ -1,2 +1,2 @@
 # portfolio
-this is my portfolio using complete front end development
+This is my portfolio using html and css
